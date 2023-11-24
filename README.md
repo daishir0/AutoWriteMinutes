@@ -1,4 +1,4 @@
-*Note: Below is the English version of the README.*
+*Note: For English readers, please scroll down for the English version of this README.*
 
 **概要**  
 AutoWriteMinutesは、ブラウザで動作する議事録作成ツールです。音声を自動的にテキスト化し、議事録の要約を生成します。WindowsのブラウザやiPhoneのSafariでの動作が確認されています。
