@@ -1,0 +1,11 @@
+flask
+openai
+numpy
+pydub
+soundfile
+gunicorn
+eventlet
+python-socketio[client]
+Flask-Cors
+eventlet
+pandas
