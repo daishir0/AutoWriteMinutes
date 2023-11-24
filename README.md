@@ -11,7 +11,7 @@ AutoWriteMinutesは、ブラウザで動作する議事録作成ツールです�
 
 **使い方**  
 1. ターミナルで `python app.py` を実行して、サーバーを起動します。
-2. ブラウザで `http://localhost:5000` を開きます。
+2. ブラウザで `http://www.yourserver.net:5000` を開きます。
 3. 「文字おこしを開始する」ボタンをクリックして録音を開始します。録音された発言は `./data/` に保存されます。
 4. 議事録を作成するには、`https://www.yourserver.net:5000/minutes?s=YYYYMMDD-HHMMSS&e=YYYYMMDD-HHMMSS` 形式のURLにアクセスします。例えば、2023年11月4日の13時から13時30分までの議事録を作成する場合は、`https://www.yourserver.net:5000/minutes?s=20231104-130000&e=20231104-133000` とします。
 
